@@ -31,6 +31,26 @@ wikigacha-bot
 └── patchright_profile/
 ```
 
+## 📦 Demo Save
+
+Want to explore a large collection without running the bot for hours?
+
+You can download **my current save file** used in the demo.
+
+**Clic Here** ⬇️
+[![Download Save](https://img.shields.io/badge/download-demo_save-blue)](https://github.com/Thomega35/WikigachaBot/releases/latest)
+
+![Unique Cards](https://img.shields.io/badge/unique_cards-177,555-purple)
+![Total Pulls](https://img.shields.io/badge/total_pulls-35,992-orange)
+![Collection](https://img.shields.io/badge/collection-2.63%25-blue)
+
+### How to use
+
+1. Download `wikigachasave.json`
+2. Place it at the **root of the project**
+3. Delete the `patchright_profile` folder if it already exists
+4. Start the bot — the save will be **automatically loaded**
+
 ---
 
 # 🚀 Installation
