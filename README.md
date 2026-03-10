@@ -8,6 +8,18 @@ Automation bot for **https://wikigacha.com** that automatically opens packs, man
 
 The bot uses [**Patchright**](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright), Stealth version of Playwright to interact with the game just like a real user while handling dialogs, backups, and imports automatically bypassing Cloudflare Turnstile.
 
+# 📽️ Demo
+
+In this demo you can see the bot running in real time.
+
+At the beginning, the **pack balance is reset**, allowing the bot to continue opening packs.
+Shortly after, the **automatic backup system triggers**, exporting the current progression to the save file `wikigachasave.json` so the user can later explore their Collection.
+
+This demonstration highlights the **speed of the pack opening process**, the **pack reset feature**, and the **auto-save mechanism** working together.
+
+![wikigacha](https://github.com/user-attachments/assets/1354fa78-d510-4ee5-9ec4-02af61272210)
+
+
 # 📂 Project Structure
 
 ```
